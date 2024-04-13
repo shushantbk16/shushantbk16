@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Shushant this side
 - 🔭 I’m currently working on NextJs
 - 🌱 I’m currently learning Blockchain
 - 💬 Ask me about Cp
-- 📫 How to reach me: 
+- 📫 How to reach me: shushantkamatar29@gmail.com
 - ⚡ Fun fact: Currently searching for one
 
 <!--
