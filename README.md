@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on NextJs
+- 🌱 I’m currently learning Blockchain
+- 💬 Ask me about Cp
+- 📫 How to reach me: 
+- ⚡ Fun fact: Currently searching for one
 
 <!--
 **shushantbk16/shushantbk16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
