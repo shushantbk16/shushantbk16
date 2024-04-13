@@ -3,7 +3,7 @@
 
 <h1 align="center">Hii there 👋 Shushant this side :)</h1>
 
-<img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/723262.gif">
+
 
 - 🔭 I’m currently working on ReactJS and NextJs
   
