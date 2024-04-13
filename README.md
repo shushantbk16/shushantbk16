@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://wallpaperaccess.com/full/723262.gif">
 
-- 🔭 I’m currently working on NextJs
+- 🔭 I’m currently working on ReactJS and NextJs
   
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Blockchain and Web3
   
 - 💬 Ask me about Cp and Javascript
   
