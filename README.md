@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on ReactJS and NextJs
+- 🔭 I’m currently working on Deep Learning and Data Science
   
-- 🌱 I’m currently learning Blockchain and Web3
+- 🌱 I’m currently learning Agentic AI
   
-- 💬 Ask me about Cp and Javascript
+- 💬 Ask me about AI / ML
   
 - 📫 How to reach me: shushantkamatar29@gmail.com
   
