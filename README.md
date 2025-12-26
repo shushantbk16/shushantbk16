@@ -42,16 +42,6 @@ I specialize in **Generative AI**, **RAG (Retrieval-Augmented Generation)**, and
 
 ---
 
-### 🏆 **Featured Projects**
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Text-to-SQL Engine (Self-Healing)](https://github.com/shushantbk16/Text-to-SQL-Assistant)** | Enterprise NL-to-SQL engine with **autonomous error correction** and **Redis caching** (<5ms latency). | `GenAI` `Redis` `Docker` |
-| **[Distributed Inference Gateway](https://github.com/shushantbk16/Distributed-inference-gateway)** | High-concurrency API Gateway designed to **load-balance** AI inference requests across worker nodes. | `AsyncIO` `Load Balancing` |
-| **[Reddit Sentiment Intelligence](https://github.com/shushantbk16/Reddit-Sentiment-Intelligence)** | Real-time social listening pipeline analyzing public sentiment towards electronics using **Transformers**. | `NLP` `Flask` `Data Eng` |
-| **[Vector Search from Scratch](https://github.com/shushantbk16/Vector-Search-Engine-From-Scratch)** | Lightweight **RAG system** built from first principles using NumPy & Cosine Similarity (No Vector DB). | `NumPy` `Math` `RAG` |
-
----
 
 
 <div align="center">
