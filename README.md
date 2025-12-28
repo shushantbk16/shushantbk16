@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm Shushant Kamatar 👋</h1>
-  <h3 align="center">AI Solutions Engineer | Generative AI & MLOps Specialist</h3>
+  <h3 align="center">Machine Learning Engineer | Generative AI & MLOps Specialist</h3>
 
   <p align="center">
     <b>Software Developer @ Lenovo</b> • <b>NASSCOM Certified Data Scientist</b> • <b>1.5+ Years Experience</b>
