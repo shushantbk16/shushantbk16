@@ -20,7 +20,7 @@
 
 ### 🚀 **About Me**
 
-I am an **AI Engineer** who builds production-grade systems, not just Jupyter Notebooks. My expertise lies in bridging the gap between "Research AI" and "Reliable Production Systems" using robust engineering practices (Docker, Redis, Caching, Self-Healing Logic).
+I am an **Machine Learning Engineer** who builds production-grade systems, not just Jupyter Notebooks. My expertise lies in bridging the gap between "Research AI" and "Reliable Production Systems" using robust engineering practices (Docker, Redis, Caching, Self-Healing Logic).
 
 I specialize in **Generative AI**, **RAG (Retrieval-Augmented Generation)**, and **Backend Optimization**. I have a strong track record of building high-concurrency applications and scalable data pipelines in corporate environments.
 
