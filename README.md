@@ -30,20 +30,32 @@ I specialize in **Generative AI**, **RAG (Retrieval-Augmented Generation)**, and
 
 ---
 
-### 🛠️ **Technical Arsenal**
+### 🛠️ The Arsenal
+*Organized by architectural layer.*
 
-<div align="center">
-
-| **Generative AI & LLMs** | **Backend & MLOps** | **Data Science & Core** |
-| :--- | :--- | :--- |
-| ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=meta&logoColor=white) <br> ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) ![RAG](https://img.shields.io/badge/RAG_Architecture-0052CC?style=flat&logo=arxiv&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) <br> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) <br> ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-
-</div>
+| **Generative AI & LLMs** | **MLOps & Infrastructure** | **Backend & Engineering** | **Core Data Science** |
+|:---:|:---:|:---:|:---:|
+| ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-121212?style=flat-square&logo=openai&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
+| ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
 
 ---
 
-
+### 📊 GitHub Analytics
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=shushantbk16&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shushantbk16&layout=compact&theme=radical&hide_border=true" height="180" /> -->
+</div>
 
 <div align="center">
-  <i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shushantbk16&theme=radical&hide_border=true" />
+</div>
+
+---
+<div align="center">
+  <small><i>Architecting the future of AI, one microservice at a time.</i></small><br>
+  <a href="https://visitcount.itsvg.in">
+    <!-- <img src="https://visitcount.itsvg.in/api?id=shushantbk16&icon=5&color=2" /> -->
+  </a>
 </div>
